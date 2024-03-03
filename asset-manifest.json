@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/f4-modulTest-feb-acciojob/static/css/main.e32ebc67.css",
-    "main.js": "/f4-modulTest-feb-acciojob/static/js/main.795d8bf7.js",
+    "main.js": "/f4-modulTest-feb-acciojob/static/js/main.18c3134c.js",
     "static/media/material-icons-two-tone.woff": "/f4-modulTest-feb-acciojob/static/media/material-icons-two-tone.3baa5b8f3469222b822d.woff",
     "static/media/material-icons-two-tone.woff2": "/f4-modulTest-feb-acciojob/static/media/material-icons-two-tone.4ef4218c522f1eb6b5b1.woff2",
     "static/media/material-icons-round.woff": "/f4-modulTest-feb-acciojob/static/media/material-icons-round.5d681e2edae8c60630db.woff",
@@ -14,10 +14,10 @@
     "static/media/material-icons.woff2": "/f4-modulTest-feb-acciojob/static/media/material-icons.0c35d18bf06992036b69.woff2",
     "index.html": "/f4-modulTest-feb-acciojob/index.html",
     "main.e32ebc67.css.map": "/f4-modulTest-feb-acciojob/static/css/main.e32ebc67.css.map",
-    "main.795d8bf7.js.map": "/f4-modulTest-feb-acciojob/static/js/main.795d8bf7.js.map"
+    "main.18c3134c.js.map": "/f4-modulTest-feb-acciojob/static/js/main.18c3134c.js.map"
   },
   "entrypoints": [
     "static/css/main.e32ebc67.css",
-    "static/js/main.795d8bf7.js"
+    "static/js/main.18c3134c.js"
   ]
 }
