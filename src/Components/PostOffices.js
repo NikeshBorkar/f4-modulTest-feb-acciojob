@@ -53,7 +53,7 @@ const PostOffices = () => {
   // Using useEffect hook for fetching data when the component is mounted.
   useEffect(() => {
     fetchData();
-  });
+  },[]);
 
   return (
     <>
