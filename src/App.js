@@ -8,8 +8,8 @@ function App() {
     // Setting up the routes.
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Form />} />
-        <Route path="pincode/:pincode" element={<PostOffices />} />
+        <Route path="/f4-modulTest-feb-acciojob" element={<Form />} />
+        <Route path="/f4-modulTest-feb-acciojob/pincode/:pincode" element={<PostOffices />} />
         <Route path="*" element={<h1>Not found</h1>} />
       </Routes>
     </BrowserRouter>
